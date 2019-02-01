@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: welcome to hb-lin's homepage!
 description: hb-lin's blog！
+highlighter: rouge
+highlighter: pygments
