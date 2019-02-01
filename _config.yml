@@ -1,5 +1,6 @@
 theme: jekyll-theme-midnight
 title: welcome to hb-lin's homepage!
 description: hb-lin's blog！
+encoding: utf-8
 highlighter: rouge
 highlighter: pygments
